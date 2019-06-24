@@ -1,0 +1,1 @@
+woocommerce-upsells-bundle.git
